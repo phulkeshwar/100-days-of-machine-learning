@@ -1,0 +1,10 @@
+
+# Auto-added standard ignores
+node_modules/
+.history/
+dist/
+.next/
+__pycache__/
+.venv/
+*.log
+.env.local
